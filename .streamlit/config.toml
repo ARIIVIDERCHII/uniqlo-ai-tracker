@@ -1,10 +1,10 @@
 [theme]
 primaryColor = "#ed1d24"
 
-backgroundColor = "#4ae278"
+backgroundColor = "#e7eeee"
 
 secondaryBackgroundColor = "#ffffff"
 
-textColor = "#1a1a1a"
+textColor = "#ce3cc2"
 
 font = "sans serif"
