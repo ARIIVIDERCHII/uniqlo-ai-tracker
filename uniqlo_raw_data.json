@@ -1,0 +1,417 @@
+{
+  "status": "ok",
+  "result": {
+    "l2s": [
+      {
+        "color": {
+          "code": "COL01",
+          "displayCode": "01"
+        },
+        "communicationCode": "484484-01-002-000",
+        "flags": {
+          "priceFlags": [],
+          "productFlags": [
+            {
+              "id": 6,
+              "code": "salesStart",
+              "name": "新作",
+              "type": "product_flag",
+              "effectiveTime": {
+                "start": 1776985200,
+                "end": 1778194800
+              },
+              "detail": ""
+            }
+          ]
+        },
+        "pld": {
+          "code": "PTB000",
+          "displayCode": "000"
+        },
+        "size": {
+          "code": "SMA002",
+          "displayCode": "002"
+        },
+        "l2Id": "09324079",
+        "alterations": {},
+        "sales": true,
+        "salesType": "NORMAL",
+        "searchInStoresAvailable": true
+      },
+      {
+        "color": {
+          "code": "COL01",
+          "displayCode": "01"
+        },
+        "communicationCode": "484484-01-003-000",
+        "flags": {
+          "priceFlags": [],
+          "productFlags": [
+            {
+              "id": 6,
+              "code": "salesStart",
+              "name": "新作",
+              "type": "product_flag",
+              "effectiveTime": {
+                "start": 1776985200,
+                "end": 1778194800
+              },
+              "detail": ""
+            }
+          ]
+        },
+        "pld": {
+          "code": "PTB000",
+          "displayCode": "000"
+        },
+        "size": {
+          "code": "SMA003",
+          "displayCode": "003"
+        },
+        "l2Id": "09324080",
+        "alterations": {},
+        "sales": true,
+        "salesType": "NORMAL",
+        "searchInStoresAvailable": true
+      },
+      {
+        "color": {
+          "code": "COL01",
+          "displayCode": "01"
+        },
+        "communicationCode": "484484-01-004-000",
+        "flags": {
+          "priceFlags": [],
+          "productFlags": [
+            {
+              "id": 6,
+              "code": "salesStart",
+              "name": "新作",
+              "type": "product_flag",
+              "effectiveTime": {
+                "start": 1776985200,
+                "end": 1778194800
+              },
+              "detail": ""
+            }
+          ]
+        },
+        "pld": {
+          "code": "PTB000",
+          "displayCode": "000"
+        },
+        "size": {
+          "code": "SMA004",
+          "displayCode": "004"
+        },
+        "l2Id": "09324081",
+        "alterations": {},
+        "sales": true,
+        "salesType": "NORMAL",
+        "searchInStoresAvailable": true
+      },
+      {
+        "color": {
+          "code": "COL01",
+          "displayCode": "01"
+        },
+        "communicationCode": "484484-01-005-000",
+        "flags": {
+          "priceFlags": [],
+          "productFlags": [
+            {
+              "id": 6,
+              "code": "salesStart",
+              "name": "新作",
+              "type": "product_flag",
+              "effectiveTime": {
+                "start": 1776985200,
+                "end": 1778194800
+              },
+              "detail": ""
+            }
+          ]
+        },
+        "pld": {
+          "code": "PTB000",
+          "displayCode": "000"
+        },
+        "size": {
+          "code": "SMA005",
+          "displayCode": "005"
+        },
+        "l2Id": "09324082",
+        "alterations": {},
+        "sales": true,
+        "salesType": "NORMAL",
+        "searchInStoresAvailable": true
+      },
+      {
+        "color": {
+          "code": "COL01",
+          "displayCode": "01"
+        },
+        "communicationCode": "484484-01-006-000",
+        "flags": {
+          "priceFlags": [],
+          "productFlags": [
+            {
+              "id": 6,
+              "code": "salesStart",
+              "name": "新作",
+              "type": "product_flag",
+              "effectiveTime": {
+                "start": 1776985200,
+                "end": 1778194800
+              },
+              "detail": ""
+            }
+          ]
+        },
+        "pld": {
+          "code": "PTB000",
+          "displayCode": "000"
+        },
+        "size": {
+          "code": "SMA006",
+          "displayCode": "006"
+        },
+        "l2Id": "09324083",
+        "alterations": {},
+        "sales": true,
+        "salesType": "NORMAL",
+        "searchInStoresAvailable": true
+      },
+      {
+        "color": {
+          "code": "COL01",
+          "displayCode": "01"
+        },
+        "communicationCode": "484484-01-007-000",
+        "flags": {
+          "priceFlags": [],
+          "productFlags": [
+            {
+              "id": 6,
+              "code": "salesStart",
+              "name": "新作",
+              "type": "product_flag",
+              "effectiveTime": {
+                "start": 1776985200,
+                "end": 1778194800
+              },
+              "detail": ""
+            }
+          ]
+        },
+        "pld": {
+          "code": "PTB000",
+          "displayCode": "000"
+        },
+        "size": {
+          "code": "SMA007",
+          "displayCode": "007"
+        },
+        "l2Id": "09324084",
+        "alterations": {},
+        "sales": true,
+        "salesType": "NORMAL",
+        "searchInStoresAvailable": true
+      },
+      {
+        "color": {
+          "code": "COL01",
+          "displayCode": "01"
+        },
+        "communicationCode": "484484-01-008-000",
+        "flags": {
+          "priceFlags": [],
+          "productFlags": [
+            {
+              "id": 6,
+              "code": "salesStart",
+              "name": "新作",
+              "type": "product_flag",
+              "effectiveTime": {
+                "start": 1776985200,
+                "end": 1778194800
+              },
+              "detail": ""
+            }
+          ]
+        },
+        "pld": {
+          "code": "PTB000",
+          "displayCode": "000"
+        },
+        "size": {
+          "code": "SMA008",
+          "displayCode": "008"
+        },
+        "l2Id": "09324085",
+        "alterations": {},
+        "sales": true,
+        "salesType": "NORMAL",
+        "searchInStoresAvailable": true
+      }
+    ],
+    "stocks": {
+      "09324079": {
+        "statusCode": "IN_STOCK",
+        "quantity": 11,
+        "transitStatus": "NO_TRANSIT",
+        "backInStock": false,
+        "disableSizeChip": false,
+        "transitLocalized": "",
+        "statusLocalized": "在庫あり",
+        "isDCStock": false
+      },
+      "09324080": {
+        "statusCode": "IN_STOCK",
+        "quantity": 11,
+        "transitStatus": "NO_TRANSIT",
+        "backInStock": false,
+        "disableSizeChip": false,
+        "transitLocalized": "",
+        "statusLocalized": "在庫あり",
+        "isDCStock": false
+      },
+      "09324081": {
+        "statusCode": "IN_STOCK",
+        "quantity": 11,
+        "transitStatus": "NO_TRANSIT",
+        "backInStock": false,
+        "disableSizeChip": false,
+        "transitLocalized": "",
+        "statusLocalized": "在庫あり",
+        "isDCStock": false
+      },
+      "09324082": {
+        "statusCode": "IN_STOCK",
+        "quantity": 11,
+        "transitStatus": "NO_TRANSIT",
+        "backInStock": false,
+        "disableSizeChip": false,
+        "transitLocalized": "",
+        "statusLocalized": "在庫あり",
+        "isDCStock": false
+      },
+      "09324083": {
+        "statusCode": "IN_STOCK",
+        "quantity": 11,
+        "transitStatus": "NO_TRANSIT",
+        "backInStock": false,
+        "disableSizeChip": false,
+        "transitLocalized": "",
+        "statusLocalized": "在庫あり",
+        "isDCStock": false
+      },
+      "09324084": {
+        "statusCode": "IN_STOCK",
+        "quantity": 11,
+        "transitStatus": "NO_TRANSIT",
+        "backInStock": false,
+        "disableSizeChip": false,
+        "transitLocalized": "",
+        "statusLocalized": "在庫あり",
+        "isDCStock": false
+      },
+      "09324085": {
+        "statusCode": "IN_STOCK",
+        "quantity": 11,
+        "transitStatus": "NO_TRANSIT",
+        "backInStock": false,
+        "disableSizeChip": false,
+        "transitLocalized": "",
+        "statusLocalized": "在庫あり",
+        "isDCStock": false
+      }
+    },
+    "prices": {
+      "09324079": {
+        "base": {
+          "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+          },
+          "value": 1990
+        },
+        "promo": null,
+        "isDualPrice": false,
+        "taxPolicy": "INCLUSIVE"
+      },
+      "09324080": {
+        "base": {
+          "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+          },
+          "value": 1990
+        },
+        "promo": null,
+        "isDualPrice": false,
+        "taxPolicy": "INCLUSIVE"
+      },
+      "09324081": {
+        "base": {
+          "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+          },
+          "value": 1990
+        },
+        "promo": null,
+        "isDualPrice": false,
+        "taxPolicy": "INCLUSIVE"
+      },
+      "09324082": {
+        "base": {
+          "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+          },
+          "value": 1990
+        },
+        "promo": null,
+        "isDualPrice": false,
+        "taxPolicy": "INCLUSIVE"
+      },
+      "09324083": {
+        "base": {
+          "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+          },
+          "value": 1990
+        },
+        "promo": null,
+        "isDualPrice": false,
+        "taxPolicy": "INCLUSIVE"
+      },
+      "09324084": {
+        "base": {
+          "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+          },
+          "value": 1990
+        },
+        "promo": null,
+        "isDualPrice": false,
+        "taxPolicy": "INCLUSIVE"
+      },
+      "09324085": {
+        "base": {
+          "currency": {
+            "code": "JPY",
+            "symbol": "¥"
+          },
+          "value": 1990
+        },
+        "promo": null,
+        "isDualPrice": false,
+        "taxPolicy": "INCLUSIVE"
+      }
+    }
+  }
+}
